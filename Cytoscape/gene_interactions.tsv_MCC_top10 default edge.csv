@@ -1,0 +1,8 @@
+"activityRatio","canonicalName","description","enabled","increment","interaction","name","scenario","selected","shared interaction","shared name"
+"0.25",,,"true",,"interacts with","RFX5 (interacts with) SMAP2",,"false","interacts with","RFX5 (interacts with) SMAP2"
+"0.25",,,"true",,"interacts with","NFYC (interacts with) PRPF38A",,"false","interacts with","NFYC (interacts with) PRPF38A"
+"0.25",,,"true",,"interacts with","PRPF38A (interacts with) RAD54L",,"false","interacts with","PRPF38A (interacts with) RAD54L"
+"0.25",,,"true",,"interacts with","ICB Response (interacts with) B4GALNT4",,"false","interacts with","ICB Response (interacts with) B4GALNT4"
+"0.25",,,"true",,"interacts with","MRPL20 (interacts with) ATPIF1",,"false","interacts with","MRPL20 (interacts with) ATPIF1"
+"0.25",,,"true",,"interacts with","ATPIF1 (interacts with) ICB Response",,"false","interacts with","ATPIF1 (interacts with) ICB Response"
+"0.25",,,"true",,"interacts with","SMAP2 (interacts with) NFYC",,"false","interacts with","SMAP2 (interacts with) NFYC"
