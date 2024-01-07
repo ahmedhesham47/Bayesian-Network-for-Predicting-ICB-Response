@@ -1,0 +1,12 @@
+"ACTIVATION","activityRatio","ALL_EDGE","canonicalName","description","EdgeBetweenness","enabled","increment","interaction","name","ORIG_TYPE","PATHWAY","scenario","selected","shared interaction","shared name","TYPE","UNDO_PROT"
+,"0.25",,,,"70.0",,,"interacts with","MEtan (interacts with) MEgrey",,,,"false","interacts with","MEtan (interacts with) MEgrey",,
+,"0.25",,,,"46.0",,,"interacts with","MEsaddlebrown (interacts with) ICB Response",,,,"false","interacts with","MEsaddlebrown (interacts with) ICB Response",,
+,"0.25",,,,"101.0",,,"interacts with","MEgrey (interacts with) MEpurple",,,,"false","interacts with","MEgrey (interacts with) MEpurple",,
+,"0.25",,,,"9.0",,,"interacts with","MEgreen (interacts with) MEtan",,,,"false","interacts with","MEgreen (interacts with) MEtan",,
+,"0.25",,,,"24.0",,,"interacts with","MEskyblue (interacts with) MEtan",,,,"false","interacts with","MEskyblue (interacts with) MEtan",,
+,"0.25",,,,"31.0","true",,"interacts with","MElightgreen (interacts with) MEskyblue",,,,"false","interacts with","MElightgreen (interacts with) MEskyblue",,
+,"0.25",,,,"44.0",,,"interacts with","MEskyblue (interacts with) MEpink",,,,"false","interacts with","MEskyblue (interacts with) MEpink",,
+,"0.25",,,,"123.0","true",,"interacts with","MEpink (interacts with) MEgreenyellow",,,,"false","interacts with","MEpink (interacts with) MEgreenyellow",,
+,"0.25",,,,"100.0",,,"interacts with","MEpurple (interacts with) MEpink",,,,"false","interacts with","MEpurple (interacts with) MEpink",,
+,"0.25",,,,"90.0",,,"interacts with","MEgreenyellow (interacts with) MEsaddlebrown",,,,"false","interacts with","MEgreenyellow (interacts with) MEsaddlebrown",,
+,"0.25",,,,"18.0",,,"interacts with","MEgreen (interacts with) MElightgreen",,,,"false","interacts with","MEgreen (interacts with) MElightgreen",,

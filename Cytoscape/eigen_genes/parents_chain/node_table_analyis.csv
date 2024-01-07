@@ -1,0 +1,11 @@
+"ALL_NODE","AverageShortestPathLength","BetweennessCentrality","canonicalName","ClosenessCentrality","ClusteringCoefficient","degree.layout","description","Eccentricity","EdgeCount","enabled","GENEID","GENESYMBOL","Indegree","initialConcentration","IsSingleNode","levels","LINK","MIRID","moleculeType","name","NeighborhoodConnectivity","NODELABEL","ORIG_TYPE","Outdegree","PartnerOfMultiEdgedNodePairs","plotted","selected","SelfLoops","shared name","Stress","TYPE"
+,"3.0","0.7083333333333333","MEgrey","0.3333333333333333","0.0","3","","5","2","true",,,"1","0","false","100",,,"Other","MEgrey","2.5",,,"1","0","true","false","0","MEgrey","51",
+,"0.0","0.0","ICB Response","0.0","0.0","1","","0","1","true",,,"1","0","false","100",,,"Other","ICB Response","2.0",,,"0","0","true","false","0","ICB Response","0",
+,"3.5","0.3055555555555555","MEtan","0.2857142857142857","0.0","4","","6","3","true",,,"2","0","false","100",,,"Other","MEtan","2.3333333333333335",,,"1","0","true","false","0","MEtan","22",
+,"2.5","1.0","MEpurple","0.4","0.0","6","","4","2","true",,,"1","0","false","100",,,"Other","MEpurple","2.5",,,"1","0","true","false","0","MEpurple","72",
+,"2.2857142857142856","0.3611111111111111","MEskyblue","0.4375","0.0","3","","4","3","true",,,"1","0","false","100",,,"Other","MEskyblue","2.6666666666666665",,,"2","0","true","false","0","MEskyblue","26",
+,"2.0","1.5","MEpink","0.5","0.0","3","","3","3","true",,,"2","0","false","100",,,"Other","MEpink","2.3333333333333335",,,"1","0","true","false","0","MEpink","108",
+,"1.5","1.1388888888888888","MEgreenyellow","0.6666666666666666","0.0","4","","2","2","true",,,"1","0","false","100",,,"Other","MEgreenyellow","2.5",,,"1","0","true","false","0","MEgreenyellow","82",
+,"3.0","0.0","MEgreen","0.3333333333333333","0.0","3","","6","2","true",,,"0","0","false","100",,,"Other","MEgreen","2.5",,,"2","0","true","false","0","MEgreen","0",
+,"1.0","0.625","MEsaddlebrown","1.0","0.0","4","","1","2","true",,,"1","0","false","100",,,"Other","MEsaddlebrown","1.5",,,"1","0","true","false","0","MEsaddlebrown","45",
+,"3.0","0.20833333333333331","MElightgreen","0.3333333333333333","0.0","5","","5","2","true",,,"1","0","false","100",,,"Other","MElightgreen","2.5",,,"1","0","true","false","0","MElightgreen","15",

@@ -1,0 +1,11 @@
+MElightgreen	interacts with	MEskyblue
+MEsaddlebrown	interacts with	ICB Response
+MEgreen	interacts with	MElightgreen
+MEgreen	interacts with	MEtan
+MEgreenyellow	interacts with	MEsaddlebrown
+MEpink	interacts with	MEgreenyellow
+MEskyblue	interacts with	MEpink
+MEskyblue	interacts with	MEtan
+MEpurple	interacts with	MEpink
+MEtan	interacts with	MEgrey
+MEgrey	interacts with	MEpurple
